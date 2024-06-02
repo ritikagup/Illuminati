@@ -23,14 +23,14 @@ ILLUMINATI wants to make a big positive impact on education, especially for peop
 ## Pipeline
 How ILLUMINATI transforms articles into summarized content and visual mind maps:
 
-1.Article Input:
+1) Article Input:
 Users provide an article URL as input to the application.
 
-2.Text Scraping:
+2) Text Scraping:
 The application uses BeautifulSoup to scrape and extract text content from the provided article URL.
 Various HTML structures are handled to ensure robust extraction of meaningful content.
 
-3.Text Preprocessing:
+3) Text Preprocessing:
 Extracted text undergoes preprocessing to remove unwanted characters, URLs, and non-alphanumeric symbols using regular expressions (re).
 This step ensures that the text is in a suitable format for further analysis.
 

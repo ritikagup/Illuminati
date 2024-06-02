@@ -17,5 +17,6 @@ Discover the magic of easy learning with ILLUMINATI! Bid farewell to long articl
 ## Demo Video
 https://github.com/ritikagup/Illuminati/assets/99736341/63f435e3-b393-4bdb-abbb-135008a3503a
 
-
+## Motivation
+ILLUMINATI is driven by the desire to support individuals with ADHD or those who thrive on visual learning. By offering condensed information and captivating visuals, ILLUMINATI aims to make learning both accessible and enjoyable for all.
 

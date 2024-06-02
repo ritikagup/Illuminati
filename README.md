@@ -44,7 +44,7 @@ They input article URLs, view generated summaries, and explore interactive mind 
 
 ## Technologies,Tools and Models
 
-<img src="https://github.com/ritikagup/Illuminati/assets/99736341/3293c68c-23e5-4cdc-ae6a-0650de855793" alt="tools" width="350" height="250">
+<img src="https://github.com/ritikagup/Illuminati/assets/99736341/3293c68c-23e5-4cdc-ae6a-0650de855793" alt="tools" width="350" height="300">
 
 - Python: Primary programming language for backend development and scripting tasks.
 

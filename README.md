@@ -35,12 +35,11 @@ Extracted text undergoes preprocessing to remove unwanted characters, URLs, and 
 This step ensures that the text is in a suitable format for further analysis.
 
 4) Text Summarization:
-The cleaned text is divided into paragraphs, and each paragraph is summarized using advanced AI models.
-ollama.Client() API is utilized to generate detailed summaries that retain essential information while eliminating extraneous details.
-Summarization process handles large volumes of text, providing concise and comprehensive summaries.
+The cleaned text is divided into paragraphs, and each paragraph is summarized using the Mistral 7b model through the ollama.Client() API.
+The process is optimized to handle large volumes of text, ensuring concise and comprehensive summaries while eliminating extraneous details.
 
 5) Mind Map Generation:
-Text is converted into a markdown format suitable for creating visual mind maps.
+The cleaned text is converted into a markdown format suitable for creating visual mind maps using the Mistral model.
 Key points and ideas are emphasized with headings and bullet points, ensuring clarity and focus in the mind map structure.
 Mind maps are rendered using the streamlit_markmap library, providing an interactive visual representation of the summarized content.
 

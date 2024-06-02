@@ -1,4 +1,7 @@
 # ILLUMINATI 
+Discover the magic of easy learning with ILLUMINATI! Bid farewell to long articles – this tool converts them into quick summaries and captivating mind maps. Dive into knowledge effortlessly and make learning a joy! 🚀📚
+
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Demo](#demo)

@@ -46,3 +46,23 @@ Mind maps are rendered using the streamlit_markmap library, providing an interac
 6) User Interaction:
 Users interact with the application through a frontend interface built with Streamlit.
 They input article URLs, view generated summaries, and explore interactive mind maps directly within the Streamlit app.
+
+## Technologies,Tools and Models
+
+- Python: Primary programming language for backend development and scripting tasks.
+
+- Streamlit: Web application framework used for building interactive and data-driven applications.
+
+- Beautiful Soup: Python library for web scraping, used to extract text content from article URLs.
+
+- Ollama: It is is an open-source project that serves as a powerful and user-friendly platform for running LLMs on your local machine. It acts as a bridge between the complexities of LLM technology and the desire for an accessible and customizable AI experience.
+
+- Markdown: Lightweight markup language used for formatting text content and generating visual mind maps.
+
+- Markmap: It is visualization tool that transforms hierarchical data, such as nested lists or mind maps, into interactive diagrams. It offers an intuitive way to organize and explore complex relationships, with customizable options for appearance and layout.
+
+- Mistral: Mistral 7B is a 7-billion-parameter language model released by Mistral AI. Mistral 7B is a carefully designed language model that provides both efficiency and high performance to enable real-world applications. Due to its efficiency improvements, the model is suitable for real-time applications where quick responses are essential. At the time of its release, Mistral 7B outperformed the best open source 13B model (Llama 2) in all evaluated benchmarks.
+
+## Team
+Ritika Gupta
+Purvi Chaurasia

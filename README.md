@@ -23,7 +23,7 @@ ILLUMINATI wants to make a big positive impact on education, especially for peop
 ## Pipeline
 How ILLUMINATI transforms articles into summarized content and visual mind maps:
 
-1) Article Input:
+1)Article Input:
 Users provide an article URL as input to the application.
 
 2) Text Scraping:

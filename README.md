@@ -1,4 +1,4 @@
-# ILLUMINATI 
+# ILLUMINATI - Your AI Article Summarizer and Mindmap Creator
 Discover the magic of easy learning with ILLUMINATI! Bid farewell to long articles – this tool converts them into quick summaries and captivating mind maps. Dive into knowledge effortlessly and make learning a joy! 🚀📚
 
 

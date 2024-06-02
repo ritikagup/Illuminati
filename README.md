@@ -1,5 +1,4 @@
-#ILLUMINATI- It's like having a super-smart assistant for your reading tasks. Just give it an article, and it'll give you back a quick summary and a cool mind map. Say goodbye to long reads and hello to quick, easy understanding!
-
+#ILLUMINATI 
 ## Table of Contents
 1. [Overview](#overview)
 2. [Demo](#demo)

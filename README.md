@@ -23,7 +23,7 @@ ILLUMINATI wants to make a big positive impact on education, especially for peop
 ## Pipeline
 How ILLUMINATI transforms articles into summarized content and visual mind maps:
 
-1)Article Input:
+1) Article Input:
 Users provide an article URL as input to the application.
 
 2) Text Scraping:
@@ -34,16 +34,16 @@ Various HTML structures are handled to ensure robust extraction of meaningful co
 Extracted text undergoes preprocessing to remove unwanted characters, URLs, and non-alphanumeric symbols using regular expressions (re).
 This step ensures that the text is in a suitable format for further analysis.
 
-4.Text Summarization:
+4) Text Summarization:
 The cleaned text is divided into paragraphs, and each paragraph is summarized using advanced AI models.
 ollama.Client() API is utilized to generate detailed summaries that retain essential information while eliminating extraneous details.
 Summarization process handles large volumes of text, providing concise and comprehensive summaries.
 
-5.Mind Map Generation:
+5) Mind Map Generation:
 Text is converted into a markdown format suitable for creating visual mind maps.
 Key points and ideas are emphasized with headings and bullet points, ensuring clarity and focus in the mind map structure.
 Mind maps are rendered using the streamlit_markmap library, providing an interactive visual representation of the summarized content.
 
-6.User Interaction:
+6) User Interaction:
 Users interact with the application through a frontend interface built with Streamlit.
 They input article URLs, view generated summaries, and explore interactive mind maps directly within the Streamlit app.

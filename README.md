@@ -49,6 +49,8 @@ They input article URLs, view generated summaries, and explore interactive mind 
 
 ## Technologies,Tools and Models
 
+![tools](https://github.com/ritikagup/Illuminati/assets/99736341/3293c68c-23e5-4cdc-ae6a-0650de855793)
+
 - Python: Primary programming language for backend development and scripting tasks.
 
 - Streamlit: Web application framework used for building interactive and data-driven applications.

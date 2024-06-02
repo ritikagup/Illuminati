@@ -18,5 +18,5 @@ Discover the magic of easy learning with ILLUMINATI! Bid farewell to long articl
 https://github.com/ritikagup/Illuminati/assets/99736341/63f435e3-b393-4bdb-abbb-135008a3503a
 
 ## Motivation
-ILLUMINATI is driven by the desire to support individuals with ADHD or those who thrive on visual learning. By offering condensed information and captivating visuals, ILLUMINATI aims to make learning both accessible and enjoyable for all.
+ILLUMINATI wants to make a big positive impact on education, especially for people with ADHD and those who learn better with visuals. We believe that everyone should have access to fun and effective learning, no matter how they learn best. In today's digital world, there is a lot of information, which can be overwhelming. People with ADHD often have trouble focusing on long, text-heavy materials, and visual learners might find traditional methods boring and hard to understand. ILLUMINATI uses advanced technology to solve these problems, making learning easy and enjoyable for everyone.
 

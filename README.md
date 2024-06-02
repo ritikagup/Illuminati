@@ -4,15 +4,10 @@ Discover the magic of easy learning with ILLUMINATI! Bid farewell to long articl
 
 ## Table of Contents
 1. [Demo](#demo)
-3. [Motivation](#motivation)
-4. [Technical Aspect](#technical-aspect)
-5. [Pipeline](#pipeline)
-6. [Installation](#installation)
-7. [Run](#run)
-8. [Directory Tree](#directory-tree)
-9. [To Do](#to-do)
-10. [Technologies Used](#technologies-used)
-11. [Team](#team)
+2. [Motivation](#motivation)
+3. [Pipeline](#pipeline)
+4. [Technologies Used](#technologies-used)
+5. [Team](#team)
 
 ## Demo Video
 https://github.com/ritikagup/Illuminati/assets/99736341/63f435e3-b393-4bdb-abbb-135008a3503a
@@ -66,5 +61,5 @@ They input article URLs, view generated summaries, and explore interactive mind 
 - Mistral: Mistral 7B is a 7-billion-parameter language model released by Mistral AI. Mistral 7B is a carefully designed language model that provides both efficiency and high performance to enable real-world applications. Due to its efficiency improvements, the model is suitable for real-time applications where quick responses are essential. At the time of its release, Mistral 7B outperformed the best open source 13B model (Llama 2) in all evaluated benchmarks.
 
 ## Team
-Ritika Gupta
-Purvi Chaurasia
+- Ritika Gupta
+- Purvi Chaurasia

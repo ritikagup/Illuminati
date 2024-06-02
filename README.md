@@ -12,7 +12,10 @@
 10. [Technologies Used](#technologies-used)
 11. [Team](#team)
 
+## Overview
+Discover the magic of easy learning with ILLUMINATI! Bid farewell to long articles – this tool converts them into quick summaries and captivating mind maps. Dive into knowledge effortlessly and make learning a joy! 🚀📚
 
+## Demo Video
 https://github.com/ritikagup/Illuminati/assets/99736341/63f435e3-b393-4bdb-abbb-135008a3503a
 
 

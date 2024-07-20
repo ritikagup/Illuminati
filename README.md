@@ -62,4 +62,4 @@ They input article URLs, view generated summaries, and explore interactive mind 
 
 ## Team
 - Ritika Gupta
-- Purvi Chaurasia
+
